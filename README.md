@@ -6,7 +6,7 @@
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack_Compose_Material_3-4285F4.svg?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Gemini AI](https://img.shields.io/badge/AI-Google_Gemini_API-8E75C4.svg?logo=google&logoColor=white)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Download APK](https://img.shields.io/badge/Download-Latest_APK-blue?logo=android&logoColor=white)](https://github.com/YOUR_USERNAME/growtube/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-Latest_APK-blue?logo=android&logoColor=white)](https://github.com/am-dazzle/GrowTube-App/releases/tag/v1.0.0)
 
 **GrowTube** is a modern, native Android application engineered for YouTube content creators and growth strategists. It combines live YouTube metrics with Google's Gemini AI to analyze channel performance, track competitors, generate high-converting title & thumbnail ideas, and output complete 30-day viral content calendars.
 
@@ -16,8 +16,8 @@
 
 Directly install GrowTube on your Android phone without building from source:
 
-1. Go to the [**Releases Page**](https://github.com/YOUR_USERNAME/growtube/releases).
-2. Download the latest `GrowTube-vX.X.apk` (or `app-debug.apk`) under **Assets**.
+1. Open the [**GrowTube v1.0.0 Release Page**](https://github.com/am-dazzle/GrowTube-App/releases/tag/v1.0.0).
+2. Download the `.apk` file located under the **Assets** section.
 3. On your Android device, tap the downloaded file and select **Install** (enable *"Install unknown apps"* if prompted in Android Settings).
 
 
@@ -91,8 +91,8 @@ Directly install GrowTube on your Android phone without building from source:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/growtube.git
-   cd growtube
+   git clone https://github.com/am-dazzle/GrowTube-App.git
+   cd GrowTube-App
    ```
 
 2. **Configure Environment Secrets**:
