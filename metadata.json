@@ -1,0 +1,6 @@
+{
+  "name": "GrowTube",
+  "description": "GrowTube is a professional YouTube Channel Growth Analyzer and Content Strategist, providing DNA insight, competitor tables, and actionable 30-day strategy content maps using Gemini and the YouTube Data API v3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
